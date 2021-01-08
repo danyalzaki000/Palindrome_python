@@ -36,7 +36,7 @@ def palindrome2():
 		print(" ")
 		print("Thanks for testing our code. ")
 
-#print(palindrome1())
-#print(palindrome2())
+print(palindrome1())
+print(palindrome2())
 
 
