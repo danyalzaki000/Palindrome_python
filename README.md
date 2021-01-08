@@ -1,3 +1,3 @@
 # Palindrome_python
-This python code contans two main functions which are commented at the last of the code. uncomment them to test the code.
-get into teh Palindrome_python directory and hit "python3 palindrome.py".
+This python code contans two main functions.
+get into the Palindrome_python directory and run "python3 palindrome.py" to test the code.
